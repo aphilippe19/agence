@@ -1,9 +1,5 @@
 
-/*------------------------------------*\
-	General
-\*------------------------------------*/
-
-/* -- typography -- */
+/* -- General-- */
 
 body {
     font-family: 'Varela Round', sans-serif;
@@ -314,7 +310,7 @@ header {
     margin: 10px 0px;
     border: 1px solid #EEE;
     margin-top: -90px;
-    margin-bottom: 30%;
+    margin-bottom: 8%;
 }
 
 .service i {
@@ -430,6 +426,7 @@ header {
 .contact {
     margin: 15px 0px;
     text-align: center;
+    margin-bottom:5%;
 }
 
 .contact i {
@@ -500,7 +497,6 @@ header {
 /*------------------------------------*\
 	Owl theme
 \*------------------------------------*/
-
 /* -- dots -- */
 
 .owl-theme span {
